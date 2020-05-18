@@ -1,0 +1,17 @@
+{
+    "name": "lastwhitebird/geoip-php",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Alexey",
+            "email": "alexeycp@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FSN\\": "src/FSG/"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+/nbproject/private/
+settings.php
+
+/vendor/
+/.buildpath
+/.project
+/.settings/
